@@ -1,0 +1,30 @@
+{
+  "name": "hackathon",
+  "version": "1.0.0",
+  "description": "ContactFR! Our app we made during the 2019 FirstNet: Hackathon",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Infomation-Technolgy-Club-of-Ivy-Tech/Hackathon.git"
+  },
+  "keywords": [
+    "hackathon",
+    "2019",
+    "FirstNet",
+    "AT&T",
+    "Ivy",
+    "Tech"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Infomation-Technolgy-Club-of-Ivy-Tech/Hackathon/issues"
+  },
+  "homepage": "https://github.com/Infomation-Technolgy-Club-of-Ivy-Tech/Hackathon#readme",
+  "dependencies": {
+    "ionic": "^5.2.8"
+  }
+}
