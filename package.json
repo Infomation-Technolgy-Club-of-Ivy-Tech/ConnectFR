@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/Infomation-Technolgy-Club-of-Ivy-Tech/Hackathon#readme",
   "dependencies": {
+    "@ionic-native/firebase-authentication": "^5.14.0",
     "ionic": "^5.2.8"
   }
 }
