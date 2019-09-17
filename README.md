@@ -10,9 +10,9 @@ npm install -g ionic cordova
 cd blank
 ```
 
-then run
+then run to spool up development server
 ```
-run ng-serve
+ng-serve
 ```
 
 # Built With
