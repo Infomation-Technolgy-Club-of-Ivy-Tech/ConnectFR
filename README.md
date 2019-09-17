@@ -1,4 +1,4 @@
-# Hackathon
+# ConnectFR
 Anonymous texting! This app using firebase authentication can be used to ask question and connect with first responders in real time. No more endless google searching on your state laws. Annoymausly ask your county, city, or state police any questoi annoymanus. 
 
 # How to start the app
